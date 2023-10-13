@@ -16,7 +16,7 @@ In order to successfully complete your solution, you will need to have access to
 ## Azure and Analytics Platform
 
 The directions provided for this solutions assume fundamental working knowledge of Azure, Azure Synapse Analytics, Azure Databricks, and Azure Data Studio.
-1.	[Azure Synapse Analytics] (https://azure.microsoft.com/en-us/products/synapse-analytics/ 'Azure Synapse Analytics')
+1.	[Azure Synapse Analytics] (<https://azure.microsoft.com/en-us/products/synapse-analytics/>)
 2.	[Azure Databricks] (https://azure.microsoft.com/en-us/products/databricks/ 'Azure Databricks')
 3.	[Azure Data Studio] (https://azure.microsoft.com/en-in/products/data-studio 'Azure Data Studio')
 
